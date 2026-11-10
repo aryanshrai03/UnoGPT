@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# Training artifacts (can be 100+ MB for the full config)
+*.ckpt
+chat_transcript.json
+
+# Do NOT ignore data/ - the dataset ships with the repo
