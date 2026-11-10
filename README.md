@@ -198,7 +198,7 @@ unogpt/
 
 ### If UnoGPT was useful, Please star the Repo! ⭐
 
-[![Star History Chart](https://api.star-history.com/chart?repos=aryanshrai03/UnoGPT&type=date&legend=top-left)](https://www.star-history.com/?repos=aryanshrai03%2Foprameet&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/chart?repos=aryanshrai03/UnoGPT&type=date&legend=top-left)](https://www.star-history.com/?repos=aryanshrai03%2FUnoGPT&type=date&legend=top-left)
 
 
 <div align="center">
