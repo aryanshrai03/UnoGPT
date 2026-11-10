@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/7tK648NW/framed-image-modified.png" alt="UnoGPT, a GPT written completely from scratch in pure Python" width="100%" />
+  <img src="https://i.ibb.co/RptKysH8/image.png" alt="UnoGPT, a GPT written completely from scratch in pure Python" width="100%" />
 </div>
 
 <div align="center">
@@ -20,9 +20,6 @@
   <img alt="Made with Python" src="https://img.shields.io/badge/made%20with-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/chart?repos=aryanshrai03/UnoGPT&type=date&legend=top-left)](https://www.star-history.com/?repos=aryanshrai03%2Foprameet&type=date&legend=top-left)
 
 ---
 
@@ -196,11 +193,18 @@ unogpt/
 
 **UnoGPT Open License 1.0 (UOL-1.0).** Anyone may use, copy, modify, merge, publish, distribute, sublicense, or sell UnoGPT, commercially included. The single condition: keep the original [`license.txt`](license.txt), the copyright notice, and the attribution notice in your codebase and in anything you distribute, and mark modified versions as modified. Full terms are in [`license.txt`](license.txt).
 
-## Author
+
+## Star History
+
+### If UnoGPT was useful, Please star the Repo! ⭐
+
+[![Star History Chart](https://api.star-history.com/chart?repos=aryanshrai03/UnoGPT&type=date&legend=top-left)](https://www.star-history.com/?repos=aryanshrai03%2Foprameet&type=date&legend=top-left)
+
 
 <div align="center">
 
-### Made solely by Aryansh Rai
+## 
+### Made by Aryansh Rai
 
 <a href="https://github.com/aryanshrai03">
   <img alt="GitHub: @aryanshrai03" src="https://img.shields.io/badge/GitHub-%40aryanshrai03-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -213,5 +217,4 @@ unogpt/
 
 © 2026 Aryansh Rai, licensed under the [UnoGPT Open License 1.0](license.txt)
 
-### If UnoGPT taught you something, Please star the Repo! ⭐⭐⭐
 </div>
